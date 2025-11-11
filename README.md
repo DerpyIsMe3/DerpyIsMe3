@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DerpyIsMe3/DerpyIsMe3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eli - a huge Nintendo fan and gaming enthusiast!
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy competitive gaming, particularly Super Smash Bros. and Pokémon. I like analyzing game mechanics, character matchups, and competitive strategies.
+
+## Interests
+- Fighting game mechanics and frame data
+- Pokémon team building and competitive battling
+- Game design and development
+- Technology and programming projects
+
+## Current Focus
+- Improving my competitive gameplay
+- Learning new technical skills
+- Working on personal projects
+
+[Follow My Tournament Stats Here!](https://www.supermajor.gg/ultimate/player/i%20ate%20it?id=S4996984)
+
+
+
+
+---
+> <span style="color: #1e3a5f">"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what."</span>  
+> **— Atticus Finch**
