@@ -17,7 +17,7 @@ I enjoy competitive gaming, particularly Super Smash Bros. and Pokémon. I like 
 - Learning new technical skills
 - Working on personal projects
 
-[Follow My Tournament Stats Here!](https://www.supermajor.gg/ultimate/player/i%20ate%20it?id=S4996984)
+[Follow My Competitive Smash Stats Here!](https://www.supermajor.gg/ultimate/player/i%20ate%20it?id=S4996984)
 
 
 
