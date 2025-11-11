@@ -8,8 +8,7 @@ I enjoy competitive gaming, particularly Super Smash Bros. and Pokémon. I like 
 
 ## Interests
 - Fighting game mechanics and frame data
-- Pokémon team building and competitive battling
-- Game design and development
+- Pokémon team building
 - Technology and programming projects
 
 ## Current Focus
